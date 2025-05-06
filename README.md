@@ -22,4 +22,4 @@ Back in the Terminal, type: python entity_extraction.py and watch the output.
 
 ### Evaluation for JOUR389W
 
-PUT YOUR EVALUATION HERE
+It did a perfect job and caught people and places in the headlines and links I accidently copied with the story text. This would be super useful if you needed to pull up a certain story, but could only remember a specific name or place. Also would be useful for establishing and tracking patterns across stories. The ability to quickly make connections between people, places and organizations across decades of news means we would have access to so much more context - and no excuse for not making it a first step in the reporting process.
